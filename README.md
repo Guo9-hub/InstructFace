@@ -4,4 +4,4 @@ Official repository for **InstructionFace: Instruction-Guided Multimodal Fusion 
 
 The paper is currently under review.
 
-**Code and pretrained models will be released upon acceptance.**
+**The complete code will be released upon acceptance of the paper.**
