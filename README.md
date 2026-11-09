@@ -1,6 +1,6 @@
-# InstructionFace
+# InstructFace
 
-Official repository for **InstructionFace: Instruction-Guided Multimodal Fusion and Progressive Alignment for Facial Analysis**.
+Official repository for **InstructFace: Instruction-Guided Multimodal Fusion and Progressive Alignment for Facial Analysis**.
 
 The paper is currently under review.
 
